@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "husky_fei_simulator")
+set(husky_fei_simulator_MAINTAINER "Murilo F. M. <muhrix@gmail.com>")
+set(husky_fei_simulator_DEPRECATED "")
+set(husky_fei_simulator_VERSION "0.0.3")
+set(husky_fei_simulator_BUILD_DEPENDS )
+set(husky_fei_simulator_RUN_DEPENDS "husky_fei_gazebo" "husky_fei_gazebo_plugins")
+set(husky_fei_simulator_BUILDTOOL_DEPENDS "catkin")

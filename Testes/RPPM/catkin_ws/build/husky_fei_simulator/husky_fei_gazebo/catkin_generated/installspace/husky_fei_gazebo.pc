@@ -1,0 +1,8 @@
+prefix=/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/install
+
+Name: husky_fei_gazebo
+Description: Description of husky_fei_gazebo
+Version: 0.0.3
+Cflags: 
+Libs: -L/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/install/lib 
+Requires: 

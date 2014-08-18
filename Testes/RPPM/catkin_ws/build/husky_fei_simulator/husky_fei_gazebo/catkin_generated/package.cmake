@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "husky_fei_gazebo")
+set(husky_fei_gazebo_MAINTAINER "Murilo F. M. <muhrix@gmail.com>")
+set(husky_fei_gazebo_DEPRECATED "")
+set(husky_fei_gazebo_VERSION "0.0.3")
+set(husky_fei_gazebo_BUILD_DEPENDS )
+set(husky_fei_gazebo_RUN_DEPENDS "gazebo_ros" "husky_fei_description" "robot_pose_ekf")
+set(husky_fei_gazebo_BUILDTOOL_DEPENDS "catkin")
