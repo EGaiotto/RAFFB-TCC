@@ -7,4 +7,6 @@
 # new environment variables
 
 # modified environment variables
+export LD_LIBRARY_PATH="/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/devel/lib/x86_64-linux-gnu:/opt/ros/indigo/lib/x86_64-linux-gnu:/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/devel/lib:/opt/ros/indigo/lib:/usr/lib32"
+export PKG_CONFIG_PATH="/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/devel/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/x86_64-linux-gnu/pkgconfig:/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/devel/lib/pkgconfig:/opt/ros/indigo/lib/pkgconfig"
 export PWD="/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/build"

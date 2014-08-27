@@ -266,6 +266,9 @@ cpp_common_DIR:PATH=/opt/ros/indigo/share/cpp_common/cmake
 //The directory containing a CMake configuration file for gazebo_plugins.
 gazebo_plugins_DIR:PATH=gazebo_plugins_DIR-NOTFOUND
 
+//The directory containing a CMake configuration file for gazebo_ros.
+gazebo_ros_DIR:PATH=gazebo_ros_DIR-NOTFOUND
+
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/home/raphzor/TCC/RAFFB-TCC/Testes/RPPM/catkin_ws/build/gtest
 
@@ -444,7 +447,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=6
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=2
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
